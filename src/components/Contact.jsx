@@ -5,7 +5,7 @@ import Reveal from './Reveal'
 import { CONTACT } from '../data/content'
 
 export const SOCIALS = [
-  { label: 'Instagram', href: 'https://instagram.com/madhesh_royal', icon: Instagram },
+  { label: 'Instagram', href: 'https://instagram.com/buddy.events', icon: Instagram },
   { label: 'Facebook', href: 'https://facebook.com/MadheshRoyal', icon: Facebook },
 ]
 

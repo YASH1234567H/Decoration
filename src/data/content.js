@@ -63,7 +63,7 @@ export const PACKAGES = [
 ]
 
 // Admin WhatsApp number: country code + number, digits only (e.g. 919876543210). No +, spaces or dashes.
-export const WHATSAPP_NUMBER = '918309871076'
+export const WHATSAPP_NUMBER = '916281854428'
 
 export const CONTACT = {
   phone: '+91 83098 71076', email: 'madheshdecorationstudio@gmail.com', location: 'Chittoor, Andhra Pradesh, India',

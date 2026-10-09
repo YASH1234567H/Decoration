@@ -4,7 +4,7 @@ import { IMAGES } from '../data/content'
 import { EASE } from './Reveal'
 import { scrollToHash } from '../hooks/useSmoothScroll'
 
-const D = 1.0 // starts as the short loader fades out
+const D = 1.5 // offset so hero text reveals as the curtain panels slide away (curtain opens 0.7 s – 2.1 s)
 
 const Line = ({ children, delay }) => (
   <span className="block overflow-hidden pb-[0.1em]">
